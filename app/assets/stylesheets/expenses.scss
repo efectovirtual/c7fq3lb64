@@ -20,3 +20,11 @@
     font-size: 18px;
   }
 }
+
+a{
+  color: #bebebe;
+
+  &:hover{
+    color: #fff;
+  }
+}
